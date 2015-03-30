@@ -1,0 +1,2 @@
+# angular
+Репозиторий изучения AngularJS
